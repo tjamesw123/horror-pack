@@ -7,12 +7,17 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "71ddbffcb32c6464a78584525eb48da3e0727ba8de4105ed9bac19351ac38698"
+hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
 file = "mods/autotag.pw.toml"
 hash = "c330193b5ee6cecd7190dc9c6929e0d965876ae62108d9f12f6530665c87791d"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "395f904642ba5daf2cc4f6dbdbf9cede5897a80229247186d2c705f649b35b76"
 metafile = true
 
 [[files]]
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -98,6 +108,16 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "03d4272f909720df400b6af4c90a93fc95e3a55c85935e7777724ba9f9bcb994"
 metafile = true
 
 [[files]]
