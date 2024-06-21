@@ -1,2 +1,131 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "420663a6a26a3d60ca7bd07f942ba7ab3379daaf26772181a040e2caf97ff6e7"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "71ddbffcb32c6464a78584525eb48da3e0727ba8de4105ed9bac19351ac38698"
+metafile = true
+
+[[files]]
+file = "mods/autotag.pw.toml"
+hash = "c330193b5ee6cecd7190dc9c6929e0d965876ae62108d9f12f6530665c87791d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/environmentz.pw.toml"
+hash = "c4494a054d381d381950104045d88c6f6b18d433f665d92a9a124241fc16fe61"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "30e59165fb662b97599cfaf8afbee50cf9ec5da34f03e7af2bdadd00fcdb93c3"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "58ec51afc2354d65aeb2f9e068d8467fb2d3c13a3e751325385a59d5d493930f"
+metafile = true
+
+[[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "01f68e4c8843c77fca2d6422bc84211d5b8311dbb9cae675ddc94a6b4e565d4e"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "14e50c7cd16b4650d3a491f5f31bc00af6be0c290734db9552852ab1de9bc3bb"
+metafile = true
+
+[[files]]
+file = "mods/its-thirst.pw.toml"
+hash = "3b3ff21e1ebe52aa7d299683c15487d3ae6c06c52c8d3e8a1a293379f0127af4"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "8fc8b24906c29d31ffc068feb25f89461979298f6e04716b380a34c315cd2015"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "581c7f7b4592b8304ce066a588961b11dc55dfa15d131d9ab343beda43f11ca8"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "5c8d7564cb0407d6162fd7d982e85e510713fdde4949e55d9d716e29c9293975"
+metafile = true
+
+[[files]]
+file = "mods/the-man-from-the-fog-fabric.pw.toml"
+hash = "1afb8f9b145714f8078910661b8d98933f9408db5a493ccc1dd458c2456e5109"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "69d00de2ce5f0d2d19c3a16458317b8072c64ca1f7b2ee0a51ac104e86e5957f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "41af69fa69416026d2e1099a42f66d97cfb42786f689408e518b0134433446cf"
+metafile = true
