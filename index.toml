@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Server-Translations-1.4.18+1.19.2.jar"
+hash = "f9ce5d51851825ddc593ea6ec5e43dd7d32f20b4aa83b11a76f206b0e900d8b2"
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "dc9fe65f01e38f83a145895609147e65f9af37e1460cb536795fef871a81fd5d"
 metafile = true
@@ -148,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
-metafile = true
-
-[[files]]
-file = "mods/server-translation-api.pw.toml"
-hash = "e28bb775efc23b8e0a2757aeed8a4a5fdcb26b74d438f294cf2ed7dd5f051dec"
 metafile = true
 
 [[files]]
