@@ -21,12 +21,12 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+hash = "dd76f358cdb3d578ddcd7fc6c8fe2858fad91e4f5f650c5b885dc72d7175e111"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "6ce97b65a78d66e0ae006105e63e2ccf8af6b3b266a2c5234f6ae7657b98220b"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "01f68e4c8843c77fca2d6422bc84211d5b8311dbb9cae675ddc94a6b4e565d4e"
+hash = "39cde5d90ba99a0753376a35f04d0939aad17105a6f8d57a93babc79018eb777"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8fc8b24906c29d31ffc068feb25f89461979298f6e04716b380a34c315cd2015"
+hash = "36be6dae896dc594e09d1d34826be0ae204f60f56da300c3517f94e87fa84af5"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "1837cf773a9fa4d1a351930793296e399b5648bd3c706e9ac7588a2c76be9028"
+hash = "7f61bdc663592d07a72dd95b5e81737eedfbf44e0a25d9b59ad1162a9cc49889"
 metafile = true
 
 [[files]]
@@ -186,10 +186,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "69d00de2ce5f0d2d19c3a16458317b8072c64ca1f7b2ee0a51ac104e86e5957f"
+hash = "120f8f5091bd89adec8e737af383944d727a2f3648794271d05d3190ec020109"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "41af69fa69416026d2e1099a42f66d97cfb42786f689408e518b0134433446cf"
+hash = "f24b7deb0da811941b4ec3b54c1791d6eca7999f7dcbf0cba98f06aaa6e60b91"
 metafile = true
