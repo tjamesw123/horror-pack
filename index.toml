@@ -175,6 +175,11 @@ hash = "1afb8f9b145714f8078910661b8d98933f9408db5a493ccc1dd458c2456e5109"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "7f61bdc663592d07a72dd95b5e81737eedfbf44e0a25d9b59ad1162a9cc49889"
 metafile = true
